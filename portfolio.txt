@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title> codsoft- Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Codsoft</h1>
+        <p>Web Developer | Designer</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Write a brief introduction about yourself here.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Add your project cards here -->
+        <!-- Example:
+        <div class="project-card">
+            <img src="project-image.jpg" alt="Project Name">
+            <h3>Project Name</h3>
+            <p>Description of the project.</p>
+            <a href="project-link.html">Learn More</a>
+        </div>
+        -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Contact information and a contact form can be added here.</p>
+    </section>
+
+</body>
+</html>
