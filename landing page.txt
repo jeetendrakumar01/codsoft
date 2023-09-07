@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Software Website Landing Page</title>
+  <style>
+    /* Reset default styles */
+    body, h1, h2, p {
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+    
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #444;
+      padding: 0.5rem 0;
+    }
+    
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+    }
+    
+    nav a:hover {
+      background-color: #555;
+    }
+    
+    .hero {
+      background-image: url("https://www.industrytap.com/wp-content/uploads/2023/01/software-developer-gad54be184_640.jpg");
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      padding: 4rem;
+      color: #fff;
+    }
+    
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    
+    .hero p {
+      font-size: 1.5rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    
+    .features {
+      display: flex;
+      justify-content: space-around;
+      padding: 4rem 0;
+    }
+    
+    .feature {
+      text-align: center;
+    }
+    
+    .feature img {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 1rem;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Codsoft</h1>
+    <p>Welcome to our software solution</p>
+  </header>
+  
+  
+  <div class="hero">
+    
+    
+    <a href="#contact"><button>Get Started</button></a>
+  </div>
+  
+  <section id="features">
+    <div class="features">
+      <div class="feature">
+        <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web_developing-dJoGejvV7nI9KNlO.gif" alt="Feature 1">
+        <h2>web </h2>
+      </div>
+      <div class="feature">
+        <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/mob-dev-AGBrMO8XElc08jln.gif" alt="Feature 2">
+        <h2>App</h2>
+      </div>
+      <div class="feature">
+        <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif" alt="Feature 3">
+        <h2>Data Science</h2>
+      </div>
+    </div>
+  </section>
+  
+ 
