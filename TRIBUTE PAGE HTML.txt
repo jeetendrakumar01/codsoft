@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>codsoft</title>
+</head>
+<body>
+    <header>
+        <h1>Codsoft</h1>
+    </header>
+
+    <section id="tribute-info">
+        <div id="image-container">
+            <img src="tributee-image.jpg" alt="Tributee Name">
+        </div>
+        <div id="tribute-text">
+            <h2>Introduction</h2>
+            <p>
+                Write a brief introduction about the person you are paying tribute to.
+                Include some background information, achievements, and why they are
+                important.
+            </p>
+            <h2>Accomplishments</h2>
+            <ul>
+                <li>Accomplishment 1</li>
+                <li>Accomplishment 2</li>
+                <li>Accomplishment 3</li>
+                <!-- Add more accomplishments as needed -->
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; [Year] Your Name</p>
+    </footer>
+</body>
+</html>
